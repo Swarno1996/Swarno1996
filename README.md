@@ -56,7 +56,7 @@ I'm **Swarno1996**, a passionate newbie developer learning to building amazing p
 - 💼 **LinkedIn:** https://www.linkedin.com/in/swarnadeep-bhattacharya-1391251b8/
 - 📧 **Email:** swarnadeep.bhattachary96@gmail.com
 - 🐦 **Twitter:** [@YourHandle](link)
-- 🎓 **Credly:** https://www.credly.com/users/[your-credly-username]
+- 🎓 **Credly:** https://www.credly.com/users/swarnadeep-bhattacharya.7a092759
 
 ## 👯 Looking to Collaborate
 I'm always interested in collaborating on exciting projects! Whether it's open-source contributions, innovative ideas, or mentoring opportunities, feel free to reach out.
