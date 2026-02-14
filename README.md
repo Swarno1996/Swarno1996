@@ -63,4 +63,4 @@ I'm always interested in collaborating on exciting projects! Whether it's open-s
 
 ---
 
-⭐ **Fun Fact:** [Share something interesting about you or your coding journey!]
+⭐ **Fun Fact:** My brain works like a computer, logical with a very high IQ
