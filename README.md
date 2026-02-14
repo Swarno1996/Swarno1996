@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-I'm **Swarno1996**, a passionate developer dedicated to building amazing projects and contributing to the open-source community.
+I'm **Swarno1996**, a passionate newbie developer learning to building amazing projects and contributing to the open-source community.
 
 ---
 
@@ -38,7 +38,7 @@ I'm **Swarno1996**, a passionate developer dedicated to building amazing project
 
 ## 📫 Let's Connect
 - 🌐 **Website:** [Your website](link)
-- 💼 **LinkedIn:** [Your LinkedIn](link)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/swarnadeep-bhattacharya-1391251b8/
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
 - 🐦 **Twitter:** [@YourHandle](link)
 
