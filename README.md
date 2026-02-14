@@ -39,7 +39,7 @@ I'm **Swarno1996**, a passionate newbie developer learning to building amazing p
 ## 📫 Let's Connect
 - 🌐 **Website:** [Your website](link)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/swarnadeep-bhattacharya-1391251b8/
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** swarnadeep.bhattachary96@gmail.com(mailto:your.email@example.com)
 - 🐦 **Twitter:** [@YourHandle](link)
 
 ## 👯 Looking to Collaborate
