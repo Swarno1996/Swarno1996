@@ -18,6 +18,7 @@ I'm **Swarno1996**, a passionate newbie developer learning to building amazing p
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+SQL
 
 ### Cloud Platforms
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -42,6 +43,8 @@ I'm **Swarno1996**, a passionate newbie developer learning to building amazing p
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Lovabel
+Claude
 
 ## 🎯 Featured Projects
 - CreafyAI(https://creafyai.com/) - Platform to connect creators and companies globally. Powered by AI that monitors and improves itself every day. Spark, agentic AI middleman.
