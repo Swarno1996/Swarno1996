@@ -13,12 +13,13 @@ I'm **Swarno1996**, a passionate newbie developer learning to building amazing p
 - Advanced system design patterns
 - Cloud architecture and DevOps
 - Machine learning and AI applications
+- Agentic Systems and AI agents
 
 ## 💼 Skills & Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-SQL
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud Platforms
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -33,6 +34,15 @@ SQL
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+### AI & LLM Platforms
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logoColor=white)
+
+### Agentic Systems & Advanced AI
+- Agentic Systems
+- MCP (Model Context Protocol)
+
 ### Payment & CRM Platforms
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
@@ -43,8 +53,6 @@ SQL
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-Lovabel
-Claude
 
 ## 🎯 Featured Projects
 - CreafyAI(https://creafyai.com/) - Platform to connect creators and companies globally. Powered by AI that monitors and improves itself every day. Spark, agentic AI middleman.
