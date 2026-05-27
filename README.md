@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub profile!
 
-I'm **Swarno1996**, a passionate newbie developer learning to building amazing projects and contributing to the open-source community.
+I'm **Swarno1996**, a passionate developer learning to building amazing projects and contributing to the open-source community.
 
 ---
 
