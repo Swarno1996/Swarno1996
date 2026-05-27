@@ -44,15 +44,15 @@ I'm **Swarno1996**, a passionate newbie developer learning to building amazing p
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🎯 Featured Projects
-- [Project Name](link) - Brief description
-- [Project Name](link) - Brief description
-- [Project Name](link) - Brief description
+- CreafyAI(https://creafyai.com/) - Platform to connect creators and companies globally. Powered by AI that monitors and improves itself every day. Spark, agentic AI middleman.
+- Prediction Engine(https://patty-predictor.lovable.app) - AI powered pattern recognizers to demystify everyday questions.
+- Agent Forge - Creating customizable AI agents with the model and funcationality of ones choice
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swarno1996&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
-- 🌐 **Website:** [Your website](link)
+- 🌐 **Website:** Swarno world (https://swarnadeep-profile.lovable.app)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/swarnadeep-bhattacharya-1391251b8/
 - 📧 **Email:** swarnadeep.bhattachary96@gmail.com
 - 🐦 **Twitter:** [@YourHandle](link)
