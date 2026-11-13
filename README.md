@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,100:00C2FF&text=Swarnadeep%20Bhattacharya&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Solutions%20Architect%20%26%20Builder%20of%20AI-Native%20Systems&descAlignY=58&descSize=18" alt="Swarnadeep Bhattacharya banner" />
+<img width="100%" src="assets/banner.svg" alt="Swarnadeep Bhattacharya banner" />
 
 <a href="https://github.com/Swarno1996">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Agentic+systems+and+AI+agents;n8n+workflows+and+GTM+automation;From-scratch+AI-native+operating+systems;Customer+Success+meets+Solutions+Architecture" alt="Typing animation" />
@@ -161,6 +161,6 @@ I'm always interested in collaborating on exciting projects! Whether it's open-s
 
 ⭐ **Fun Fact:** My brain works like a computer, logical with a very high IOPs
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2FF,100:6C63FF&section=footer" alt="Footer wave" />
+<img width="100%" src="assets/footer.svg" alt="Footer wave" />
 
 </div>
